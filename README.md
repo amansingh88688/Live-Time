@@ -1,2 +1,2 @@
 # Live-Time
-Show real time using React js
+Show real live time using React.js
